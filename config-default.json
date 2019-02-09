@@ -1,0 +1,15 @@
+{
+	"bearer": "",
+	"smartsheetID": 0,
+	"smartsheetName": "",
+	"dbTableName": "",
+	"dbTempTableName": "",
+	"connectionstring": {
+		"server": "",
+		"database": "",
+		"user": "",
+		"password": "",
+		"useSSP": ""
+	},
+	"columns": []
+}
