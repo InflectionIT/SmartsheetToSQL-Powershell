@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/InflectionIT/SmartsheetToSQL-Powershell/blog</id>
+    <id>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog</id>
     <title>Inflection IT - SmartsheetToSQL Blog</title>
     <updated>2019-02-13T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://github.com/InflectionIT/SmartsheetToSQL-Powershell/blog"/>
+    <link rel="alternate" href="https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Inflection IT - SmartsheetToSQL news and events.</subtitle>
-    <logo>https://github.com/InflectionIT/SmartsheetToSQL-Powershell/img/inflection_IT_logo_trim_small.png</logo>
+    <logo>https://inflectionit.github.io/SmartsheetToSQL-Powershell/img/inflection_IT_logo_trim_small.png</logo>
     <rights>Copyright © 2019 Inflection IT</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>https://github.com/InflectionIT/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</id>
-        <link href="https://github.com/InflectionIT/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html">
+        <id>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</id>
+        <link href="https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html">
         </link>
         <updated>2019-02-13T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>We are happy to announce the release of v1.0 of the SmartsheetToSQL PowerShell tools. This initial release allows you to sync data from Smartsheet to a SQL Server database. Please read the docs for additional information.</p> <p>We are looking to expand our ...</p>]]></summary>
