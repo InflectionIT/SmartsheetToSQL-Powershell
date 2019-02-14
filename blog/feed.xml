@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Inflection IT - SmartsheetToSQL Blog</title>
-        <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog</link>
+        <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/SmartsheetToSQL-Powershell/blog</link>
         <description>The best place to stay up-to-date with the latest Inflection IT - SmartsheetToSQL news and events.</description>
         <lastBuildDate>Wed, 13 Feb 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Inflection IT - SmartsheetToSQL Blog</title>
-            <url>https://inflectionit.github.io/SmartsheetToSQL-Powershell/img/inflection_IT_logo_trim_small.png</url>
-            <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog</link>
+            <url>https://inflectionit.github.io/SmartsheetToSQL-Powershell/SmartsheetToSQL-Powershell/img/inflection_IT_logo_trim_small.png</url>
+            <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/SmartsheetToSQL-Powershell/blog</link>
         </image>
         <copyright>Copyright © 2019 Inflection IT</copyright>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
-            <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</link>
-            <guid>https://inflectionit.github.io/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</guid>
+            <link>https://inflectionit.github.io/SmartsheetToSQL-Powershell/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</link>
+            <guid>https://inflectionit.github.io/SmartsheetToSQL-Powershell/SmartsheetToSQL-Powershell/blog/2019/02/13/new-version-1.0.0.html</guid>
             <pubDate>Wed, 13 Feb 2019 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>We are happy to announce the release of v1.0 of the SmartsheetToSQL PowerShell tools. This initial release allows you to sync data from Smartsheet to a SQL Server database. Please read the docs for additional information.</p> <p>We are looking to expand our ...</p>]]></description>
         </item>
